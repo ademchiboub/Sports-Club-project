@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\bin\Debug\SportsClub_Buisness.dll
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\bin\Debug\SportsClub_Buisness.pdb
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\obj\Debug\SportsClub_Buisness.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\obj\Debug\SportsClub_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\obj\Debug\SportsClub_Buisness.dll
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\obj\Debug\SportsClub_Buisness.pdb
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\bin\Debug\SC_DataAccess.dll
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\bin\Debug\SC_DataAccess.pdb
+C:\Users\user\source\repos\WindowsFormsApp11\SportsClub_Buisness\obj\Debug\SportsCl.38BEF9DA.Up2Date

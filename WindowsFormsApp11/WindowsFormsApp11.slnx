@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SC_DataAccess/SportsClub_DataAccess.csproj" Id="c22c3492-3112-4691-bb5b-2ec5b9b74e1a" />
+  <Project Path="SportsClub_Buisness/SportsClub_Buisness.csproj" Id="a18ea8b5-c895-4b90-b780-353f1a974ae6" />
+  <Project Path="WindowsFormsApp11/WindowsFormsApp11.csproj" Id="344b1260-96a3-4bbe-afc3-be294ce38c48" />
+</Solution>

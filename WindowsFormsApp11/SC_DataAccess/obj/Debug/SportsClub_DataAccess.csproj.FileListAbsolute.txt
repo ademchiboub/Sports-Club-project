@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\bin\Debug\SC_DataAccess.dll
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\bin\Debug\SC_DataAccess.pdb
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\obj\Debug\SportsClub_DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\obj\Debug\SportsClub_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\obj\Debug\SC_DataAccess.dll
+C:\Users\user\source\repos\WindowsFormsApp11\SC_DataAccess\obj\Debug\SC_DataAccess.pdb
